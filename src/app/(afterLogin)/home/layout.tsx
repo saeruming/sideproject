@@ -1,6 +1,6 @@
 import { ReactNode } from "react";
 
-export default function HomeLayout({
+export default async function HomeLayout({
   children,
 }: {
   children: ReactNode;
